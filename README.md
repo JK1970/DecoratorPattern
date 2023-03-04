@@ -6,4 +6,4 @@
 
 - UML class diagram
 
-    ![UML class diagram](/.assets/decoratorPattern.png "Composite Pattern")
+    ![UML class diagram](/.assets/decoratorPattern.png "Decorator Pattern")
